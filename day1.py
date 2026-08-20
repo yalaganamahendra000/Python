@@ -5,4 +5,4 @@ def check_variable(string):
     else:
         return(False)
 
-print(check_variable("1name"))
+print(check_variable("7name"))
